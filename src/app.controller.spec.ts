@@ -16,7 +16,7 @@ describe('AppController', () => {
 
   describe('root', () => {
     it('should return "Hello Dev & CI/CD ver.2 World!"', () => {
-      expect(appController.getHello()).toBe('Hello Dev & CI/CD ver.2 World!');
+      expect(appController.getHello()).toBe('Hello Dev & CI/CD ver.2 World! changed in docker');
     });
   });
 });
