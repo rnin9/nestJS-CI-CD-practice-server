@@ -1,3 +1,6 @@
+[![Node.js CI](https://github.com/rnin9/nestJS-CI-CD-practice-server/actions/workflows/node.js.yml/badge.svg)](https://github.com/rnin9/nestJS-CI-CD-practice-server/actions/workflows/node.js.yml)
+
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
 </p>
